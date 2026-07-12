@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Varshit G
 
-### Software Engineer | AI & Machine Learning Engineer | Full Stack Developer
+### Software Engineer | AI & Machine Learning Engineer | Learner
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Scalable+Software;AI+%7C+Machine+Learning+%7C+Deep+Learning;Full+Stack+Developer;Problem+Solver;Always+Learning+New+Technologies" />
 
